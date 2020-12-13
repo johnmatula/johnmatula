@@ -1,4 +1,4 @@
-<p align="right"><img src="https://johnmatu.la/static/jm-logo.svg" width="40" alt="John Matula’s logo" float="right"></p>
+<p align="right" style="float: right"><img src="https://johnmatu.la/static/jm-logo.svg" width="40" alt="John Matula’s logo" float="right"></p>
 
 ### Hi! You made it to my GitHub profile.
 
