@@ -2,4 +2,6 @@
 
 ### Hi! You made it to my GitHub profile.
 
-Check out my [portfolio site](https://johnmatu.la/?src=github) if you haven’t yet!
+Check out my [portfolio site](https://johnmatu.la/?src=github) if you haven’t yet.
+
+Then, check out my [portfolio site](https://github.com/johnmatula/portfolio)—the source files, that is 😊
