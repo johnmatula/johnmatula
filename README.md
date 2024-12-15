@@ -1,7 +1,1 @@
-<a href="https://johnmatu.la"><img src="https://johnmatu.la/static/jm-logo.svg" width="40" alt="John Matula’s logo" align="right"></a>
-
-### Hi! You made it to my GitHub profile.
-
-Check out my [portfolio site](https://johnmatu.la/?src=github) if you haven’t yet.
-
-Then, check out my [portfolio site](https://github.com/johnmatula/portfolio)—the source files, that is 😊
+![github-readme](https://github.com/user-attachments/assets/a272f4c3-8a12-4aab-8222-f199928a26b2)
